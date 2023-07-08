@@ -1,0 +1,23 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: yellow;
+    font-size: 50px;
+    /* margin-left: 500px;
+    margin-right: 580px; */
+    text-align: center;
+}
+ .t1{
+    margin-left: 200px;
+    color: black;
+    background-color: white;
+
+ }
+ 
+ .t2{
+    margin-left: 300px;
+     margin-right: 420px;
+ }
+
+ .np{
+    background-color: rgb (255, 242, 142);
+ }
